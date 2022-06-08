@@ -1,0 +1,17 @@
+C:\Users\Lenovo\OneDrive\Masaüstü\Emir Projects\Documentation\Berengaar.Documentation\CQRS\CQRSDoc.Infrastructure\bin\Debug\net6.0\CQRSDoc.Infrastructure.deps.json
+C:\Users\Lenovo\OneDrive\Masaüstü\Emir Projects\Documentation\Berengaar.Documentation\CQRS\CQRSDoc.Infrastructure\bin\Debug\net6.0\CQRSDoc.Infrastructure.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\Emir Projects\Documentation\Berengaar.Documentation\CQRS\CQRSDoc.Infrastructure\bin\Debug\net6.0\CQRSDoc.Infrastructure.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\Emir Projects\Documentation\Berengaar.Documentation\CQRS\CQRSDoc.Infrastructure\bin\Debug\net6.0\CQRSDoc.Application.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\Emir Projects\Documentation\Berengaar.Documentation\CQRS\CQRSDoc.Infrastructure\bin\Debug\net6.0\CQRSDoc.Domain.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\Emir Projects\Documentation\Berengaar.Documentation\CQRS\CQRSDoc.Infrastructure\bin\Debug\net6.0\CQRSDoc.Application.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\Emir Projects\Documentation\Berengaar.Documentation\CQRS\CQRSDoc.Infrastructure\bin\Debug\net6.0\CQRSDoc.Domain.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\Emir Projects\Documentation\Berengaar.Documentation\CQRS\CQRSDoc.Infrastructure\obj\Debug\net6.0\CQRSDoc.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\Emir Projects\Documentation\Berengaar.Documentation\CQRS\CQRSDoc.Infrastructure\obj\Debug\net6.0\CQRSDoc.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Masaüstü\Emir Projects\Documentation\Berengaar.Documentation\CQRS\CQRSDoc.Infrastructure\obj\Debug\net6.0\CQRSDoc.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\Emir Projects\Documentation\Berengaar.Documentation\CQRS\CQRSDoc.Infrastructure\obj\Debug\net6.0\CQRSDoc.Infrastructure.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Masaüstü\Emir Projects\Documentation\Berengaar.Documentation\CQRS\CQRSDoc.Infrastructure\obj\Debug\net6.0\CQRSDoc.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\Emir Projects\Documentation\Berengaar.Documentation\CQRS\CQRSDoc.Infrastructure\obj\Debug\net6.0\CQRSDoc.Infrastructure.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Masaüstü\Emir Projects\Documentation\Berengaar.Documentation\CQRS\CQRSDoc.Infrastructure\obj\Debug\net6.0\CQRSDoc.Infrastructure.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\Emir Projects\Documentation\Berengaar.Documentation\CQRS\CQRSDoc.Infrastructure\obj\Debug\net6.0\refint\CQRSDoc.Infrastructure.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\Emir Projects\Documentation\Berengaar.Documentation\CQRS\CQRSDoc.Infrastructure\obj\Debug\net6.0\CQRSDoc.Infrastructure.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\Emir Projects\Documentation\Berengaar.Documentation\CQRS\CQRSDoc.Infrastructure\obj\Debug\net6.0\ref\CQRSDoc.Infrastructure.dll

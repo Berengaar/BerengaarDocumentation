@@ -1,0 +1,15 @@
+C:\Users\Lenovo\OneDrive\Masaüstü\Emir Projects\Documentation\Berengaar.Documentation\CQRS\CQRSDoc.Application\bin\Debug\net6.0\CQRSDoc.Application.deps.json
+C:\Users\Lenovo\OneDrive\Masaüstü\Emir Projects\Documentation\Berengaar.Documentation\CQRS\CQRSDoc.Application\bin\Debug\net6.0\CQRSDoc.Application.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\Emir Projects\Documentation\Berengaar.Documentation\CQRS\CQRSDoc.Application\bin\Debug\net6.0\CQRSDoc.Application.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\Emir Projects\Documentation\Berengaar.Documentation\CQRS\CQRSDoc.Application\bin\Debug\net6.0\CQRSDoc.Domain.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\Emir Projects\Documentation\Berengaar.Documentation\CQRS\CQRSDoc.Application\bin\Debug\net6.0\CQRSDoc.Domain.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\Emir Projects\Documentation\Berengaar.Documentation\CQRS\CQRSDoc.Application\obj\Debug\net6.0\CQRSDoc.Application.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\Emir Projects\Documentation\Berengaar.Documentation\CQRS\CQRSDoc.Application\obj\Debug\net6.0\CQRSDoc.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Masaüstü\Emir Projects\Documentation\Berengaar.Documentation\CQRS\CQRSDoc.Application\obj\Debug\net6.0\CQRSDoc.Application.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\Emir Projects\Documentation\Berengaar.Documentation\CQRS\CQRSDoc.Application\obj\Debug\net6.0\CQRSDoc.Application.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Masaüstü\Emir Projects\Documentation\Berengaar.Documentation\CQRS\CQRSDoc.Application\obj\Debug\net6.0\CQRSDoc.Application.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\Emir Projects\Documentation\Berengaar.Documentation\CQRS\CQRSDoc.Application\obj\Debug\net6.0\CQRSDoc.Application.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Masaüstü\Emir Projects\Documentation\Berengaar.Documentation\CQRS\CQRSDoc.Application\obj\Debug\net6.0\CQRSDoc.Application.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\Emir Projects\Documentation\Berengaar.Documentation\CQRS\CQRSDoc.Application\obj\Debug\net6.0\refint\CQRSDoc.Application.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\Emir Projects\Documentation\Berengaar.Documentation\CQRS\CQRSDoc.Application\obj\Debug\net6.0\CQRSDoc.Application.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\Emir Projects\Documentation\Berengaar.Documentation\CQRS\CQRSDoc.Application\obj\Debug\net6.0\ref\CQRSDoc.Application.dll

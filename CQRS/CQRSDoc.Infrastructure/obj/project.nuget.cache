@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NgQrGJU9atQFlElf1jbqaYcLtuBElqSl5QRzdIiDaqXxbffyZH0So/6aKhn2hGyoB0z+dJazWgZeuTN//+RWDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\OneDrive\\Masaüstü\\Emir Projects\\Documentation\\Berengaar.Documentation\\CQRS\\CQRSDoc.Infrastructure\\CQRSDoc.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
